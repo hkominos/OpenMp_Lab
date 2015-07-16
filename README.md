@@ -1,5 +1,5 @@
-# OpenMp_Lab
+# OpenMp_Lab<br />
 
-OpenMP Sorting
-Uppsala University
+OpenMP Sorting<br />
+Uppsala University<br />
 Parallel Computing course 2015 LAB #2
